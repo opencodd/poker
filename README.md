@@ -15,7 +15,7 @@
 
 Agile Poker is a free and open-source tool developed to help teams easily conduct their planning poker sessions. You can quickly create rooms and start estimating without any registration required.
 
-[🚀 Try Demo](https://agilepoker.servet.dev/) · [🐛 Report Bug](https://github.com/set/agile-poker/issues) · [💡 Request Feature](https://github.com/set/agile-poker/issues)
+[🚀 Try Demo](https://agilepoker.servet.dev/) · [🐛 Report Bug](https://github.com/opencodd/poker/issues) · [💡 Request Feature](https://github.com/opencodd/poker/issues)
 
 </div>
 
@@ -37,7 +37,7 @@ Agile Poker is a free and open-source tool developed to help teams easily conduc
 
 1. Clone the project:
 ```bash
-git clone https://github.com/set/agile-poker.git
+git clone https://github.com/opencodd/poker.git
 ```
 
 2. Navigate to the project directory:
