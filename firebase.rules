@@ -1,0 +1,9 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Allow anyone to read, create, and update rooms
+    match /rooms/{roomId} {
+      allow read, create, update;
+    }
+  }
+} 
